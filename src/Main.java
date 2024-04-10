@@ -40,6 +40,6 @@ public class Main
 		
 		
 		// TODO: Main Program (just, using com.ahmz.test.tester.Scanner instead of java.util.Scanner)
-		Menu.run(new Scanner(System.in));
+		Menu.run(new Scanner(System.in)); // An example program
 	}
 }

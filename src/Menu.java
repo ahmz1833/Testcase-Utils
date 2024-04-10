@@ -2,8 +2,10 @@ import com.ahmz.test.tester.Scanner; // My Scanner import is necessary
 
 public class Menu
 {
+	
 	public static void run(Scanner scanner)
 	{
+		// A simple example
 		while(true)
 		{
 			String command = scanner.nextLine().trim();
