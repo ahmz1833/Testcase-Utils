@@ -17,9 +17,9 @@ public class Main
 //		} catch (Exception e) {
 //			// This case occurs when code is judging in quera
 //		}
-		
-		
-		
+//
+//
+//
 //		// Usage 2: For generating an output for a testcase using accepted code
 //		try {
 //			MTester.initOutputGenerator("/home/tests_folder", "in/input1.txt", "myOut/output1.txt");
